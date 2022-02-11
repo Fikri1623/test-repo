@@ -1,0 +1,5 @@
+Isi file ini kita bedakan dengan file merge-conflict yang ada di branch merge-conflict-1, agar terjadi merge conflict
+
+1. Belajar GIT dulu
+2. Belajar Laravel
+3. Belajar Vue
