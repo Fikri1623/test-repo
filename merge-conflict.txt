@@ -1,0 +1,5 @@
+Isi dari file ini kita bedakan dengan yang ada di branch merge conflict 2, tapi nama file nya sama. kita coba buat merge conflict
+
+1. Belajar Laravel
+2. Belajar Vue
+3. Belajar GIT
